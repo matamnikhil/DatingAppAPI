@@ -53,3 +53,9 @@ D:\Publish\WebAPICoreCls\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microso
 D:\Publish\WebAPICoreCls\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
 D:\Publish\WebAPICoreCls\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\Publish\WebAPICoreCls\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Publish\WebAPICoreCls\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Data\UserSeedData.json
+D:\Publish\WebAPICoreCls\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Publish\WebAPICoreCls\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Publish\WebAPICoreCls\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Publish\WebAPICoreCls\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Publish\WebAPICoreCls\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
