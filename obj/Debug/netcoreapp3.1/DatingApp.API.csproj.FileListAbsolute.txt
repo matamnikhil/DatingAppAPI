@@ -60,3 +60,17 @@ D:\Publish\WebAPICoreCls\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Newtons
 D:\Publish\WebAPICoreCls\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
 D:\Publish\WebAPICoreCls\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 D:\Publish\WebAPICoreCls\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\CloudinaryDotNet.dll
+D:\Publish\WebAPICoreCls\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Publish\WebAPICoreCls\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Publish\WebAPICoreCls\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Publish\WebAPICoreCls\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Publish\WebAPICoreCls\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Publish\WebAPICoreCls\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Publish\WebAPICoreCls\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Publish\WebAPICoreCls\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Publish\WebAPICoreCls\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Publish\WebAPICoreCls\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Publish\WebAPICoreCls\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Publish\WebAPICoreCls\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Publish\WebAPICoreCls\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Publish\WebAPICoreCls\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
