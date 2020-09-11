@@ -74,3 +74,5 @@ D:\Publish\WebAPICoreCls\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\runtime
 D:\Publish\WebAPICoreCls\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\Publish\WebAPICoreCls\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\Publish\WebAPICoreCls\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Publish\WebAPICoreCls\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\Publish\WebAPICoreCls\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
